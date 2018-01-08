@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 个人整理的一个工具类的集合，包括一些自定义的View
 ### ● TimeClock.java——>自定义时钟View——>[使用方法](http://blog.csdn.net/a_zhon/article/details/53027501)——>效果图
 
@@ -79,3 +80,7 @@ MaskView maskView = new MaskView(this);
 maskView.attachView(view);
 //maskView.removeMask();
 ```
+=======
+# AndroidUtils
+utils
+>>>>>>> 468ce8dc61d32b168c6500d0374338f2b922fb27
